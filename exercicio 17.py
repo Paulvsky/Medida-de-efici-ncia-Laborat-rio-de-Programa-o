@@ -1,0 +1,12 @@
+qt1 = int(input("Informe a quantidade arrecadada: "))
+qt2 = int(input("Informe a quantidade arrecadada: "))
+qt3 = int(input("Informe a quantidade arrecadada: "))
+qt4 = int(input("Informe a quantidade arrecadada: "))
+qt5 = int(input("Informe a quantidade arrecadada: "))
+qt6 = int(input("Informe a quantidade arrecadada: "))
+qt7 = int(input("Informe a quantidade arrecadada: "))
+qt8 = int(input("Informe a quantidade arrecadada: "))
+qt9 = int(input("Informe a quantidade arrecadada: "))
+qt10 = int(input("Informe a quantidade arrecadada: "))
+total = qt1+qt2+qt3+qt4+qt5+qt6+qt7+qt8+qt9+qt10
+print("A quantidade total arrecadada é", total)
